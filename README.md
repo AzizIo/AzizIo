@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">👋 Привет, я Aziz</h1>
+<h3 align="center">Python Developer | Frontend Enthusiast</h3>
 
-<!--
-**AzizIo/AzizIo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧑‍💻 Обо мне
+- 🐍 Разработчик на **Python**
+- 🤖 Пишу **Telegram-ботов**
+- 🌐 Фронтенд: HTML, CSS, JavaScript
+- 📚 Учебные и pet-проекты на GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Технологии
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+</p>
+
+---
+
+### 📂 Проекты
+- 🔹 Python проекты
+- 🔹 Telegram-боты
+- 🔹 Frontend-вёрстка
+
+---
+
+### 📊 GitHub статистика
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Azizlo&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azizlo&layout=compact&theme=tokyonight" />
+</p>
