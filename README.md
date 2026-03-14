@@ -1,38 +1,74 @@
 <h1 align="center">👋 Привет, я Aziz</h1>
-<h3 align="center">Python Developer | Frontend Enthusiast</h3>
+
+<h3 align="center">
+Python Developer • Backend & Frontend Enthusiast
+</h3>
 
 ---
 
-### 🧑‍💻 Обо мне
-- 🐍 Разработчик на **Python**
-- 🤖 Пишу **Telegram-ботов**
-- 🌐 Фронтенд: HTML, CSS, JavaScript
-- 📚 Учебные и pet-проекты на GitHub
+## 🧑‍💻 Обо мне
+
+- 🐍 Python разработчик  
+- ⚡ Изучаю **Backend разработку (FastAPI, APIs)**  
+- 🤖 Пишу **Telegram-ботов**  
+- 🌐 Занимаюсь **Frontend разработкой**  
+- 📚 Создаю учебные и pet-проекты  
 
 ---
 
-### 🛠️ Технологии
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-</p>
+## 🚀 Технологии
 
----
-
-### 📂 Проекты
-- 🔹 Python проекты
-- 🔹 Telegram-боты
-- 🔹 Frontend-вёрстка
-
----
-
-### 📊 GitHub статистика
+### 🧠 Backend
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Azizlo&show_icons=true&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" />
 </p>
 
+### 🎨 Frontend
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azizlo&layout=compact&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 </p>
+
+### 🛠 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+</p>
+
+---
+
+## 📂 Проекты
+
+🔹 **Python проекты**  
+- API сервисы  
+- Telegram боты  
+- автоматизация  
+
+🔹 **Frontend проекты**  
+- адаптивная верстка  
+- анимации (GSAP)  
+- UI компоненты  
+
+🔹 **Fullstack эксперименты**  
+- FastAPI + React  
+- REST API  
+
+---
+
+## 📊 GitHub статистика
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔗 Связь
+
+- GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+⭐️ Спасибо за визит в мой профиль!
