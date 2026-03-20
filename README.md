@@ -1,4 +1,4 @@
-<h1 align="center">👋 Привет, я Aziz</h1>
+<h1 align="center">👋 Привет, я Azizbek</h1>
 
 <h3 align="center">
 Python Developer • Backend & Frontend Enthusiast
